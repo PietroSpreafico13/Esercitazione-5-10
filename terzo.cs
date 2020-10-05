@@ -10,6 +10,7 @@ namespace terzo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("frequento la calsse 5ia");
         }
     }
 }
