@@ -10,6 +10,7 @@ namespace secondo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ciao mi chiamo pietro spreafico");
         }
     }
 }
